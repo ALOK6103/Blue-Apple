@@ -1,0 +1,11 @@
+/* store page css */
+
+.text_log {
+  background: -webkit-linear-gradient(rgb(213, 17, 138), teal);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gyay_teal {
+  background-color: white;
+  color: black;
+}
